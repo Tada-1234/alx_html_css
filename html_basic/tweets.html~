@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+    <meta charset="utf-8"> 
+    <title> My Webpage </title>
+</head>
+<body>
+    <h1> Hello Tadala! </h1>
+    <p> How are you? </p>
+    <p> This is a tweet <blockquote class="twitter-tweet" data-lang="en" data-theme="dark"><p lang="en" dir="ltr">ALX SE students discovering the joys of C memory management 😅 <a href="https://twitter.com/hashtag/ALX_SE?src=hash&amp;ref_src=twsrc%5Etfw">#ALX_SE</a> <a href="https://t.co/3cWvnitJHu">pic.twitter.com/3cWvnitJHu</a></p>&mdash; Julien Barbier 🙃❤️🏴‍☠️ 七転び八起き (@julienbarbier42) <a href="https://twitter.com/julienbarbier42/status/1678440793554526218?ref_src=twsrc%5Etfw">July 10, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" ></script> You might be interested in.
+    <p> If you want to go home click this <a href="index.html" rel="import"> link </a>
+    </p>
+</body>
+</html>
