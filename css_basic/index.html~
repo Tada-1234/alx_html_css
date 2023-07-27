@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+    <meta charset="utf-8">
+    <title> My Webpage </title>
+    <link href="base.css" rel="stylesheet">
+    <link href="styles.css" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <p>
+            My websites
+        </p>
+        <ul>
+            <li>
+                <a href="index.html" rel="import"> index.html </a>
+            </li>
+            <li>
+                <a href="tweets.html" rel="import"> tweets.html </a>
+            </li>
+        </ul>
+    </header>
+    <footer>
+        <p>
+            Made by Tadala Gomonda - <a href="https://github.com/Tada-1234" target="_blank">here</a>
+        </p>
+    </footer>
+    <main>
+        <article>
+          <img src="https://www.holbertonschool.com/holberton-logo.png" alt="Holberton Logo">
+          <h1> HOLBERTON SCHOOL </h1>
+          <h2> ALX Intro to software engineering </h2>
+          <h3> Html basics </h3>
+          <p> html Basics </p>
+          <p> How to add a body </p>
+          <p> How to add a Head </p>
+          <p> How to add a title </p>
+          <p> How to end an html document </p>
+          </article>
+        <aside>
+            <p>
+                placeholder to add comment thread later
+            </p>
+        </aside>
+        <article>
+          <h2>Holberton students</h2>
+          <table>
+            <tr>
+              <th>Name</th>
+              <th>Age</th>
+              <th>Country</th>
+            </tr>
+            <tr>
+              <td>John</td>
+              <td>25</td>
+              <td>USA</td>
+            </tr>
+            <tr>
+              <td>Emily</td>
+              <td>28</td>
+              <td>Canada</td>
+            </tr>
+            <tr>
+              <td>Micheal</td>
+              <td>32</td>
+              <td>Australia</td>
+            </tr>
+            <tr>
+              <td>Sophia</td>
+              <td>21</td>
+              <td>UK</td>
+            </tr>
+          </table>
+        </article>
+    </main>
+</body>
+</html>

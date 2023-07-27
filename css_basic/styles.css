@@ -1,0 +1,36 @@
+.works_on_smartphones{
+    width: 100%;
+}
+@media (min-width: 600px) {
+    .works_on_smartphones{
+	width: 50%;
+    }
+}
+body,
+main{
+    display: flex;
+}
+body{
+    flex-direction: column;
+}
+main{
+    flex-direction: row;
+    flex: auto;
+}
+article{
+    flex: 2;
+    overflow-y: auto;
+}
+aside{
+    flex: 1;
+    overflow-y: auto;
+}
+a:hover{
+    color: rgb(206, 206, 222)
+}
+.logo{
+    border-radius: 100%;
+    margin: auto;
+    border: 2px solid black;
+    padding: 1px;
+}

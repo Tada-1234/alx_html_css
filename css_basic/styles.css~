@@ -1,0 +1,28 @@
+body,
+main{
+    display: flex;
+}
+.works_on_smartphone{
+    flex-direction: column;
+}
+main{
+    flex-direction: row;
+    flex: auto;
+}
+article{
+    flex: 2;
+    overflow-y: auto;
+}
+aside{
+    flex: 1;
+    overflow-y: auto;
+}
+a:hover{
+    color: rgb(206, 206, 222)
+}
+.logo{
+    border-radius: 100%;
+    margin: auto;
+    border: 2px solid black;
+    padding: 1px;
+}
